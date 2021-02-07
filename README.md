@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Skills: VUE JS / BOOTSTRAP / BULMA /  GSAP / JS / HTML / CSS
 
-- 🔭 I’m currently working on getting my degree  
+<!-- - 🔭 I’m currently working on getting my degree  -->
 - 🌱 I’m currently learning wordpress, javascript, react,... 
 - 💬 Ask me about anything 
 - ⚡ Fun fact: I'm a foody 
