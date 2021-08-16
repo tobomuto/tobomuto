@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Skills: VUE JS / BOOTSTRAP / BULMA /  GSAP / JS / HTML / CSS3
 
 <!-- - 🔭 I’m currently working on getting my degree  -->
-- 🌱 I’m currently learning Ruby, ES6, VueJs 3,... 
+- 🌱 I’m currently learning Node + Express, ES6, VueJs 3,... 
 - 💬 Ask me about anything 
 - ⚡ Fun fact: I'm a foody 
 
