@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Thomas Bouvier
 #### Front-end Developer Junior
 
-Skills: VUE JS / REACT / BOOTSTRAP / BULMA /  GSAP / JS / HTML / CSS3
+Skills: VUE JS /  GSAP / JS / HTML / CSS3
 
 <!-- - 🔭 I’m currently working on getting my degree  -->
-- 🌱 I’m currently learning Node + Express, React-Native, TypeScript,... 
+- 🌱 I’m currently learning Tailwind, UNOCSS, NUXT3,... 
 - 💬 Ask me about anything 
 - ⚡ Fun fact: I'm a foody 
 
