@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 Skills: VUE JS /  GSAP / JS / HTML / CSS3
 
 <!-- - 🔭 I’m currently working on getting my degree  -->
-- 🌱 I’m currently learning Tailwind, UNOCSS, NUXT3,... 
-- 💬 Ask me about anything 
-- ⚡ Fun fact: I'm a foody 
+- 🌱 I’m currently learning Tailwind, PHP, NUXT3,... 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tobomuto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tombvr/)  
