@@ -11,16 +11,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning Tailwind, PHP, NUXT3,... 
 -->
 
-### Hi there 👋, I'm Thomas Bouvier
-#### Front-end Developer Junior
+## Hi there 👋, I'm Thomas Bouvier
+***
+* French Front-end Developer
+* Currently working for Ylly web agency in Lille, France
 
-Skills: VUE JS /  GSAP / JS / HTML / CSS3
+
+### Tools
+***
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt='vuejs' >](https://vuejs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt='nuxtjs' >](https://nuxt.com/)
 
 <!-- - 🔭 I’m currently working on getting my degree  -->
-- 🌱 I’m currently learning Tailwind, PHP, NUXT3,... 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tobomuto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tombvr/)  
+### 📫 Reach me:
+***
+[<img width="30px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'>](https://github.com/tobomuto)  
+[<img width="30px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'>](https://www.linkedin.com/in/tombvr/) 
 
