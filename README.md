@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 ### Tools
 ***
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt='vuejs' >](https://vuejs.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt='nuxtjs' >](https://nuxt.com/)
+[<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt='vuejs' >](https://vuejs.org/)
+[<img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt='nuxtjs' >](https://nuxt.com/)
 
 <!-- - 🔭 I’m currently working on getting my degree  -->
 ### 📫 Reach me:
 ***
-[<img width="30px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'>](https://github.com/tobomuto)  
-[<img width="30px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'>](https://www.linkedin.com/in/tombvr/) 
+[<img height="30px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'>](https://github.com/tobomuto)  
+[<img height="30px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'>](https://www.linkedin.com/in/tombvr/) 
 
