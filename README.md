@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Tailwind, PHP, NUXT3,... 
 -->
 
-## Hi there 👋, I'm Thomas Bouvier
+## Hi there 👋, I'm Thomas
 ***
 * French Front-end Developer
 * Currently working for Ylly web agency in Lille, France
