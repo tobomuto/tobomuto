@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi there 👋, I'm Thomas
 ***
 * French Front-end Developer
-* Currently working for Ylly web agency in Lille, France
+* Currently working for Maoke web agency in Lille, France
 
 
 ### Tools
